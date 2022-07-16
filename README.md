@@ -1,3 +1,3 @@
-STATISTIKA CLI dibuat oleh Thafa Fauzanli
-youtube : http://youtube.com/c/takuniinfinity
-website : http://takuni-infinity.blogspot.com
+<h1>STATISTIKA CLI dibuat oleh Thafa Fauzanli<h1><b>
+youtube : http://youtube.com/c/takuniinfinity<b>
+website : http://takuni-infinity.blogspot.com<b>
